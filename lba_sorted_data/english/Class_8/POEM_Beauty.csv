@@ -1,0 +1,33 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c22ecec065fd7420d7af6,english,8,2.0,POEM: Beauty,English,Average,mcq,1.0,The sunset is a beauti—--- sight.,"[""ful"", ""ive"", ""ish"", ""tion""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbaf4,8,False,43.75,english_8.pdf,Poem:
+698c22ecec065fd7420d7af7,english,8,2.0,POEM: Beauty,English,Average,mcq,1.0,The antonym of the word beautiful is,"[""sad"", ""ugly"", ""happy"", ""cruel""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbaf4,8,True,50.0,english_8.pdf,Poem:
+698c22ecec065fd7420d7af8,english,8,2.0,POEM: Beauty,English,Average,mcq,1.0,The word light rhymes with,"[""sun"", ""late"", ""dark"", ""night""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbaf4,8,True,50.0,english_8.pdf,Poem:
+698c22ecec065fd7420d7af9,english,8,2.0,POEM: Beauty,English,Average,mcq,1.0,The word rain rhymes with,"[""brain"", ""brown"", ""wind"", ""storm""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbaf4,8,True,52.0,english_8.pdf,Poem:
+698c22ecec065fd7420d7afa,english,8,2.0,POEM: Beauty,English,Average,fill_in_the_blank,1.0,"Complete the poem 
+Beauty is —------------------
+In the —-----------------------
+The trees, -------------------
+Corn —--- and   people—-----
+Or dancing for their—----------",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbaf4,8,False,35.25423728813559,english_8.pdf,Poem:
+698c22ecec065fd7420d7afb,english,8,2.0,POEM: Beauty,English,Average,fill_in_the_blank,1.0,"Rearrange the jumbled lines of the poem:
+Or a singer chanting
+Wind sighing, rain falling,
+Beauty is heard
+Anything in earnest.
+In the night,",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbaf4,8,False,47.14285714285714,english_8.pdf,Poem:
+698c22ecec065fd7420d7afc,english,8,2.0,POEM: Beauty,English,Average,fill_in_the_blank,1.0,"Complete the lines of the poem: 
+Beauty is in yourself.
+—------------------------
+That repeat themselves
+—---------------------------
+In your work,
+—---------------------------",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbaf4,8,False,33.23615160349854,english_8.pdf,Poem:
+698c22ecec065fd7420d7afd,english,8,2.0,POEM: Beauty,English,Average,fill_in_the_blank,1.0,List out the beautiful things you have seen or heard.,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbaf4,8,False,45.28301886792453,english_8.pdf,Poem:
+698c22ecec065fd7420d7afe,english,8,2.0,POEM: Beauty,English,Difficult,fill_in_the_blank,1.0,"Pick out the words related to ‘beauty’ from the given stanza. 
+Beauty is in yourself
+Good deeds, happy thoughts
+That repeat themselves
+In your dreams
+In your work
+And even in your rest.
+________",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbaf4,8,False,42.93193717277487,english_8.pdf,Poem:

@@ -1,0 +1,133 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c2209ec065fd7420d7401,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,know/stand/each/fruit,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,41.379310344827594,english_5.pdf,Tamarind
+698c2209ec065fd7420d7402,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,loved/sit/lady/hills,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,44.99999999999999,english_5.pdf,Tamarind
+698c2209ec065fd7420d7403,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,smile/shade/shine/stop,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,40.90909090909091,english_5.pdf,Tamarind
+698c2209ec065fd7420d7404,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,listen/beneath/beloved/before.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,41.509433962264154,english_5.pdf,Tamarind
+698c2209ec065fd7420d7405,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,taste/tamarind/think/there.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,50.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d7406,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,Nobody knows where my Tamarind stood.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,40.54054054054054,english_5.pdf,Tamarind
+698c2209ec065fd7420d7407,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,I loved to sit beneath her shady boughs.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,44.99999999999999,english_5.pdf,Tamarind
+698c2209ec065fd7420d7408,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"I turn to the hills, my eyes filled with tears.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,43.58974358974359,english_5.pdf,Tamarind
+698c2209ec065fd7420d7409,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,They asked us to join them for dinner.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,44.067796610169495,english_5.pdf,Tamarind
+698c2209ec065fd7420d740a,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,She invited him to her party.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,52.63157894736843,english_5.pdf,Tamarind
+698c2209ec065fd7420d740b,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Late, mate------------,",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,28.57142857142857,english_5.pdf,Tamarind
+698c2209ec065fd7420d740c,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"While, smile,---------------",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,28.57142857142857,english_5.pdf,Tamarind
+698c2209ec065fd7420d740d,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Heart,apart,--------------,",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,29.629629629629626,english_5.pdf,Tamarind
+698c2209ec065fd7420d740e,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Soul,hole,---------------,",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,23.076923076923073,english_5.pdf,Tamarind
+698c2209ec065fd7420d740f,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Pain, vain,-------------,",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,19.999999999999996,english_5.pdf,Tamarind
+698c2209ec065fd7420d7410,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Nobody knows where my ________ stood just by a winding lane.
+(Tamarind / Tamarinds)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,34.210526315789465,english_5.pdf,Tamarind
+698c2209ec065fd7420d7411,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Each year it gave me ________ and shade, and drew me to my home again.
+(fruit / fruits)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,35.63218390804598,english_5.pdf,Tamarind
+698c2209ec065fd7420d7412,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"I loved to sit beneath her shady ________, and rest up for a while.
+(bough / boughs)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,39.28571428571429,english_5.pdf,Tamarind
+698c2209ec065fd7420d7413,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"To gaze out upon the distant blue ________, with laughter and a smile.
+(hill / hills)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,38.4,english_5.pdf,Tamarind
+698c2209ec065fd7420d7414,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"And now that I’m back, I’m eager to find my ________ again.
+(Tamarind / Tamarinds)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,36.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d7415,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"I hasten down to that favourite ________, I search, but search in vain.
+(spot / spots)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,37.2093023255814,english_5.pdf,Tamarind
+698c2209ec065fd7420d7416,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Then I stop and I ________; I stand quite still.
+(stare / stares)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,37.383177570093466,english_5.pdf,Tamarind
+698c2209ec065fd7420d7417,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"That magnificent ________, that was my life, has just been ripped apart.
+(tree / trees)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,37.93103448275862,english_5.pdf,Tamarind
+698c2209ec065fd7420d7418,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"I turn to the ________, my eyes filled with tears, for sure, I’ve lost my soul.
+(hill / hills)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,37.362637362637365,english_5.pdf,Tamarind
+698c2209ec065fd7420d7419,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Where once it stood tall, there’s nothing there now, merely an empty ________
+(hole/holes)",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,38.20224719101124,english_5.pdf,Tamarind
+698c2209ec065fd7420d741a,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,I hasten down to that favourite ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,42.50000000000001,english_5.pdf,Tamarind
+698c2209ec065fd7420d741b,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"That magnificent tree, that was my ________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,37.2093023255814,english_5.pdf,Tamarind
+698c2209ec065fd7420d741c,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Has just been ripped ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,37.93103448275862,english_5.pdf,Tamarind
+698c2209ec065fd7420d741d,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"I turn to the hills, my eyes filled with ________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,36.73469387755102,english_5.pdf,Tamarind
+698c2209ec065fd7420d741e,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,The tree gave me both fruit and ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,40.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d741f,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,My tamarind grew by a winding ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,31.57894736842105,english_5.pdf,Tamarind
+698c2209ec065fd7420d7420,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,The distant blue ________ were visible from under the tree.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,43.67816091954023,english_5.pdf,Tamarind
+698c2209ec065fd7420d7421,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,The speaker loved to sit under its shady ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,38.775510204081634,english_5.pdf,Tamarind
+698c2209ec065fd7420d7422,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"On returning, the speaker searched for the tree in ________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,41.02564102564102,english_5.pdf,Tamarind
+698c2209ec065fd7420d7423,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,The place where the tree stood is now an empty ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,41.81818181818182,english_5.pdf,Tamarind
+698c2209ec065fd7420d7424,english,5,6.0,POEM: Tamarind,English,Average,match_the_following,1.0,Tamarind tree,[],,LBA,2025-26,Match the Following,67ca912d9f0501ae9196ac0b,5,False,46.15384615384615,english_5.pdf,Tamarind
+698c2209ec065fd7420d7425,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Fruit and shade,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,53.333333333333336,english_5.pdf,Tamarind
+698c2209ec065fd7420d7426,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Favourite spot,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,50.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d7427,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Distant blue hills,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,50.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d7428,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,The speaker,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,72.72727272727273,english_5.pdf,Tamarind
+698c2209ec065fd7420d7429,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Empty hole,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,50.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d742a,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Tree was,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,62.5,english_5.pdf,Tamarind
+698c2209ec065fd7420d742b,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Heart,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,66.66666666666667,english_5.pdf,Tamarind
+698c2209ec065fd7420d742c,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Eyes,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,True,50.0,english_5.pdf,Tamarind
+698c2209ec065fd7420d742d,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"The place where the tree
+stood",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac0b,5,False,47.05882352941176,english_5.pdf,Tamarind
+698c2209ec065fd7420d742e,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,J. Gazed with a smile,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,43.90243902439024,english_5.pdf,Tamarind
+698c2209ec065fd7420d742f,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"Where did the Tamarind tree stand? 
+a) By the river
+b) In the garden
+c) Just by a winding lane
+d) On the hills",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,40.77669902912622,english_5.pdf,Tamarind
+698c2209ec065fd7420d7430,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What did the tamarind tree provide each year? 
+a) Shade and fruit
+b) Flowers and shade
+c) A place to sit
+d) Laughter",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,38.862559241706165,english_5.pdf,Tamarind
+698c2209ec065fd7420d7431,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What did the speaker love to do beneath the tree? 
+a) Sleep
+b) Rest and gaze
+c) Pick fruit
+d) Sing",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,39.175257731958766,english_5.pdf,Tamarind
+698c2209ec065fd7420d7432,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What did the speaker find when they reached the spot where the tree once stood?
+
+a) A new tree
+b) The remains of the tree
+c) Nothing but an empty hole
+d) A sign",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,41.08527131782945,english_5.pdf,Tamarind
+698c2209ec065fd7420d7433,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What action does the speaker take when they realize the tree is gone? 
+a) They run away.
+b) They sit down and cry.
+c) They listen to their heart.",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,41.04477611940298,english_5.pdf,Tamarind
+698c2209ec065fd7420d7434,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What does the speaker see when they look towards the distant hills? 
+a) A forest
+b) A city skyline
+c) The tamarind tree
+d) Blue hills",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,40.90909090909091,english_5.pdf,Tamarind
+698c2209ec065fd7420d7435,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What was the speaker's emotional state after discovering the tree was gone?  
+a) Confused and uncertain
+b) Filled with joy
+c) Heartbroken and lost
+d) Angry and vengeful",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,39.552238805970156,english_5.pdf,Tamarind
+698c2209ec065fd7420d7436,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What is the tone of the poem after the speaker finds the tree gone? 
+a) Cheerful and uplifting
+b) Regretful and sorrowful
+c) Hopeful and optimistic
+d) Angry and rebellious",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,38.888888888888886,english_5.pdf,Tamarind
+698c2209ec065fd7420d7437,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What does the speaker compare the absence of the tree to? 
+a) An empty hole
+b) A barren field
+c) A distant memory
+d) A closed door",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,43.65079365079365,english_5.pdf,Tamarind
+698c2209ec065fd7420d7438,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"Why does the speaker mention the tree in the past tense?
+a) The tree has been moved to another location.
+b) The tree no longer exists.
+c) The tree has been replaced with a new one.
+d) The tree is sick and dying.",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,43.75,english_5.pdf,Tamarind
+698c2209ec065fd7420d7439,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Where did the tamarind tree stand?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,44.11764705882353,english_5.pdf,Tamarind
+698c2209ec065fd7420d743a,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What two things did the tamarind tree provide the speaker?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,42.69662921348315,english_5.pdf,Tamarind
+698c2209ec065fd7420d743b,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What did the speaker love doing under the tree?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,44.44444444444444,english_5.pdf,Tamarind
+698c2209ec065fd7420d743c,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What did the speaker do while resting under the tree?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,41.509433962264154,english_5.pdf,Tamarind
+698c2209ec065fd7420d743d,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What emotions did the speaker feel while sitting under the tree?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,40.625,english_5.pdf,Tamarind
+698c2209ec065fd7420d743e,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What made the tamarind tree special to the speaker?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,43.01075268817204,english_5.pdf,Tamarind
+698c2209ec065fd7420d743f,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What was the speaker eager to find on returning home?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,41.509433962264154,english_5.pdf,Tamarind
+698c2209ec065fd7420d7440,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,Did the speaker find the tamarind tree upon return?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,43.13725490196079,english_5.pdf,Tamarind
+698c2209ec065fd7420d7441,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What does the speaker do when they can't find the tree?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,45.45454545454546,english_5.pdf,Tamarind
+698c2209ec065fd7420d7442,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What happened to the tree, according to the speaker?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,47.22222222222222,english_5.pdf,Tamarind
+698c2209ec065fd7420d7443,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,"What type of poem is this: narrative, humorous, or emotional?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,39.34426229508197,english_5.pdf,Tamarind
+698c2209ec065fd7420d7444,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,What is the overall mood of the poem?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac0b,5,False,43.24324324324324,english_5.pdf,Tamarind
+698c2209ec065fd7420d7445,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,What is the message or moral of the poem?,[],,LBA,2025-26,Paragraph Writing,67ca912d9f0501ae9196ac0b,5,False,43.90243902439024,english_5.pdf,Tamarind
+698c2209ec065fd7420d7446,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,How does the speaker show their connection to nature in the poem?,[],,LBA,2025-26,Paragraph Writing,67ca912d9f0501ae9196ac0b,5,False,43.548387096774185,english_5.pdf,Tamarind
+698c2209ec065fd7420d7447,english,5,6.0,POEM: Tamarind,English,Average,fill_in_the_blank,1.0,X. 61. Draw the picture of a tree and colour it. Share your experience of planting a sapling.(Difficult),[],,LBA,2025-26,Picture Description,67ca912d9f0501ae9196ac0b,5,False,39.42307692307693,english_5.pdf,Tamarind
+698c2209ec065fd7420d7448,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,"After many years, the poet returns to find the tree again.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,45.714285714285715,english_5.pdf,Tamarind
+698c2209ec065fd7420d7449,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,"Where the tree once stood, there is only an empty hole, and the poet feels like a part of
+their soul is lost.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,41.509433962264154,english_5.pdf,Tamarind
+698c2209ec065fd7420d744a,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,The poet remembers a tamarind tree that once stood by a winding lane.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,42.028985507246375,english_5.pdf,Tamarind
+698c2209ec065fd7420d744b,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,"The tree gave fruit, shade, and happy memories every year.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,39.6551724137931,english_5.pdf,Tamarind
+698c2209ec065fd7420d744c,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,"But the tree is gone, and the poet feels heartbroken.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,45.28301886792453,english_5.pdf,Tamarind
+698c2209ec065fd7420d744d,english,5,6.0,POEM: Tamarind,English,Difficult,fill_in_the_blank,1.0,The poet loved to rest under its branches and look at the distant hills.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,45.833333333333336,english_5.pdf,Tamarind
+698c2209ec065fd7420d744e,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Chocolates ------------,-----------,--------------,----------------.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,14.54545454545455,english_5.pdf,Tamarind
+698c2209ec065fd7420d744f,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Satellite ----------------,--------------,------------,---------------.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,15.384615384615385,english_5.pdf,Tamarind
+698c2209ec065fd7420d7450,english,5,6.0,POEM: Tamarind,English,Easy,fill_in_the_blank,1.0,"Photographer ------------------,-------------,-----------------,------------.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac0b,5,False,16.901408450704224,english_5.pdf,Tamarind

@@ -1,0 +1,24 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c2304ec065fd7420d8a36,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,2.0,"According to the poem ‘The Blind Boy’, what is it that the blind boy cannot enjoy?",[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196af0f,10,True,51.24999999999999,english_10.pdf,OR
+698c2304ec065fd7420d8a37,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,2.0,What does the blind boy say about the sun? When is it day or night for him?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196af0f,10,True,53.333333333333336,english_10.pdf,OR
+698c2304ec065fd7420d8a38,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,2.0,How do others feel about the blind boy? What is their reaction?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196af0f,10,True,52.38095238095239,english_10.pdf,OR
+698c2304ec065fd7420d8a39,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,2.0,How does the blind boy react to the feelings of people about him?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196af0f,10,True,50.76923076923077,english_10.pdf,OR
+698c2304ec065fd7420d8a3a,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,2.0,What a normal person can understand is almost a riddle to the blind boy. What is it?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196af0f,10,True,50.0,english_10.pdf,OR
+698c2304ec065fd7420d8a3b,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,2.0,What is the message of the poem ‘The Blind Boy’?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196af0f,10,True,54.347826086956516,english_10.pdf,OR
+698c2304ec065fd7420d8a3c,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,1.0,"“O say what is that thing called light? Which I must ne’er enjoy”
+A) Why is the speaker asking about the light?
+B) Whom is the speaker asking?
+C) Why will the speaker never enjoy the sight?",[],,LBA,2025-26,Read and Answer,67ca912d9f0501ae9196af0f,10,False,47.31182795698925,english_10.pdf,OR
+698c2304ec065fd7420d8a3d,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,1.0,"“My day or night myself I make.”
+A) Who is referred to as ‘I'?
+B) When does the speaker say that it is day or night?
+C) Why does the speaker make his own day or night?",[],,LBA,2025-26,Read and Answer,67ca912d9f0501ae9196af0f,10,False,47.5609756097561,english_10.pdf,OR
+698c2304ec065fd7420d8a3e,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,1.0,"“But sure with patience I can bear, A loss I never can know.”
+A) Who makes this statement?
+B) When does the speaker say this?
+C) What is the loss that the speaker can bear?",[],,LBA,2025-26,Read and Answer,67ca912d9f0501ae9196af0f,10,False,47.647058823529406,english_10.pdf,OR
+698c2304ec065fd7420d8a3f,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,1.0,"“Then let not what I cannot have, my cheer of mind destroy.”
+A) Who is the speaker?
+B) What is that the speaker cannot have?
+C) How will the boy’s cheer of mind be destroyed?",[],,LBA,2025-26,Read and Answer,67ca912d9f0501ae9196af0f,10,False,47.36842105263158,english_10.pdf,OR
+698c2304ec065fd7420d8a40,english,10,14.0,POEM: The Blind Boy (for memorization),English,Average,fill_in_the_blank,1.0,"III. 11. Quote from memory: (Remember/ Easy) i. O say what is ____________, __________________________ ___________________________, ___________________ blind boy! ii. You talk of ______________, _________________________ _________________________ ______________ day or night? iii. My day or ______________, _______________________; 73 ________________________ _______________ always day. iv. With heavy ____________ ________________________ _________________________ _________________ can know. v. Then let not _____________ ______________________ _______________________, ________________ blind boy.",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196af0f,10,False,23.0,english_10.pdf,OR

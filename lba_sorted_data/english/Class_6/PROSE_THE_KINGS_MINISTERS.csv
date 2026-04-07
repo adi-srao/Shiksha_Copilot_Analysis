@@ -1,0 +1,39 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c22dcec065fd7420d78dc,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,mcq,1.0,The lion made ……………. his home minister.,"[""Crow"", ""Fox"", ""leopard"", ""camel""]",,LBA,2025-26,Multiple Choice Questions,67ca912d9f0501ae9196ace2,6,True,57.14285714285714,english_6.pdf,Minister
+698c22dcec065fd7420d78dd,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,mcq,1.0,The crow was made……………………. because he could fly.,"[""Defence Minister"", ""Home Minister"", ""Minister of External Affairs"", ""Finance\nMinister""]",,LBA,2025-26,Multiple Choice Questions,67ca912d9f0501ae9196ace2,6,False,48.4375,english_6.pdf,Minister
+698c22dcec065fd7420d78de,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,mcq,1.0,The lion wanted to return to the jungle because in the desert he …………,"[""was very thirsty"", ""couldn't find camel meat"", ""burnt his paws"", ""was tired""]",,LBA,2025-26,Multiple Choice Questions,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78df,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,"________ can fly high in the sky according to the king of the forest. 
+A) Sparrow    B) crow   C) dove    D) parrot",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ace2,6,True,90.56603773584906,english_6.pdf,Minister
+698c22dcec065fd7420d78e0,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,"The animals were longing to eat ________
+A) camel’s meat   B) goat’s meat   C) deer’s meat    D) sheep’s meat
+II
+Write (T) for true (F) for false statements.",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ace2,6,True,94.52054794520548,english_6.pdf,Minister
+698c22dcec065fd7420d78e1,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,"The lion made the leopard Defense Minister, because he could swim in deep water.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78e2,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,The lion left the remains of his prey for his minister to eat.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78e3,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,The ministers were happy when the lion welcome the camel to his home.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78e4,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,The camel was the most loyal and loving friend to the lion.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78e5,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,"I want you to be my Home Minister. 
+a) Who is I?
+b) Who does he want to be the Home Minister?
+c) Why was he chosen as the Home Minister?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,92.5925925925926,english_6.pdf,Minister
+698c22dcec065fd7420d78e6,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,"“Where can we get a camel?” 
+a) Who asked this question?
+b) Who replied?
+c) What was the reply?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,89.13043478260869,english_6.pdf,Minister
+698c22dcec065fd7420d78e7,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Difficult,fill_in_the_blank,1.0,i thank you for this honour your majesty said the fox,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78e8,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,ravi is eating cake,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78e9,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,i planted tomato seeds,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78ea,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Difficult,fill_in_the_blank,1.0,riya gave diya a new watch,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78eb,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,where do you live,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78ec,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,V. 17. Find the past tense forms.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78ed,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,Who is the king of the forest?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78ee,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,Name the animals mentioned in the lesson?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78ef,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,Where did the animals go in search of camel?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78f0,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,Who is the Chief Minister of your school cabinet?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78f1,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Difficult,fill_in_the_blank,1.0,Why did the lion make leopard his Defense Minister?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,100.0,english_6.pdf,Minister
+698c22dcec065fd7420d78f2,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Difficult,fill_in_the_blank,1.0,"If you are given a chance to be in the school cabinet which ministry, would you prefer?
+Why? 
+All Things Bright and Beautiful (Poem)",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,79.81651376146789,english_6.pdf,Minister
+698c22dcec065fd7420d78f3,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Average,fill_in_the_blank,1.0,I. Choose the correct answer.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ace2,6,True,62.06896551724138,english_6.pdf,Minister
+698c22dcec065fd7420d78f4,english,6,7.0,PROSE: THE KING'S MINISTERS,English,Easy,fill_in_the_blank,1.0,"According to the poet all things have been made by………. 
+A) Man                         B) heaven              C) God        D) spirit",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ace2,6,True,52.127659574468076,english_6.pdf,Minister

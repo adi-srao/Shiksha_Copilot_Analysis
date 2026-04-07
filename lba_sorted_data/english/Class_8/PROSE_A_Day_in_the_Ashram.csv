@@ -1,0 +1,90 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c22ecec065fd7420d7ad3,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,India is my country.,"[""verb"", ""pronoun"", ""noun"", ""conjunction""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,35.0,english_8.pdf,Ashram
+698c22ecec065fd7420d7ad4,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,He is my best friend.,"[""verb"", ""pronoun"", ""noun"", ""conjunction""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,42.85714285714286,english_8.pdf,Ashram
+698c22ecec065fd7420d7ad5,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,She writes a letter to her mother.,"[""verb"", ""pronoun"", ""noun"", ""conjunction""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,44.11764705882353,english_8.pdf,Ashram
+698c22ecec065fd7420d7ad6,english,8,1.0,PROSE: A Day in the Ashram,English,Easy,fill_in_the_blank,1.0,"She quickly finished her homework.
+(A) verb    (B) adjective.  (C) noun  (D) adverb
+B. Choose the correct prefix for given
+words.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,44.11764705882353,english_8.pdf,Ashram
+698c22ecec065fd7420d7ad7,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Identify the correct prefix for the word ‘social’
+(A) anti      (B) re     (C) non    (D) in",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,36.8421052631579,english_8.pdf,Ashram
+698c22ecec065fd7420d7ad8,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Identify the correct prefix  for the word ‘visible’
+(A) non      ( B) re     (C) un    (D)  in",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,39.02439024390244,english_8.pdf,Ashram
+698c22ecec065fd7420d7ad9,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Identify the correct prefix for word ‘possible’
+(A) re    ( B) im   (C)  mis   (D) in",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,39.50617283950617,english_8.pdf,Ashram
+698c22ecec065fd7420d7ada,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Identify the correct prefix for the word ‘regular’
+(A) in      (B) miss ,   (C) non     (D)  ir
+C. Fill in the blank with the correct article.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,36.8421052631579,english_8.pdf,Ashram
+698c22ecec065fd7420d7adb,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,Yesterday I saw —- accident in----- market.,"[""The, an"", ""an, the"", ""a, an"", ""an, a""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,28.57142857142857,english_8.pdf,Ashram
+698c22ecec065fd7420d7adc,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,She sat on —--- bench in----- park.,"[""the, the"", ""an, the"", ""a an"", ""an, a""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,26.470588235294112,english_8.pdf,Ashram
+698c22ecec065fd7420d7add,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,Raju is —--- doctor working in ----- hospital.,"[""The, a"", ""an, a"", ""a , the"", ""an ,a""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,30.303030303030297,english_8.pdf,Ashram
+698c22ecec065fd7420d7ade,english,8,1.0,PROSE: A Day in the Ashram,English,Easy,fill_in_the_blank,1.0,"Suresh is —--- M.L.A., who is ------ honest politician.
+(A) The, a          (B) an, an     (C)  a, the     (D)  the, an
+D. Choose the correct opposite for the underlined
+word:",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,39.02439024390244,english_8.pdf,Ashram
+698c22ecec065fd7420d7adf,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,"Steel chair  isheavy, but plastic chair is","[""dark"", ""light"", ""strong"", ""weak""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,34.285714285714285,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae0,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,"Ranganathan  isstrong, but his brother is","[""poor"", ""dull"", ""weak"", ""hard""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,37.142857142857146,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae1,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,Some people walk fast and some others walk,"[""quick"", ""speed"", ""hurry"", ""slow""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,41.02564102564102,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae2,english,8,1.0,PROSE: A Day in the Ashram,English,Average,mcq,1.0,Be good but not,"[""sad"", ""bad"", ""happy"", ""better""]",,LBA,2025-26,Multiple Choice Questions,67449bf6065a2c5cd2dcbadf,8,False,33.333333333333336,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae3,english,8,1.0,PROSE: A Day in the Ashram,English,Easy,fill_in_the_blank,1.0,"Fill in the blanks with the correct antonyms of the underlined words. 
+A. Arjuna was bold but Shakuni was —---
+B.Students must go to school in time but not—--.
+C.Ranganna is strong but his brother is—--
+D.Learn to treat even your enemy as—---.
+E.Some people walk fast but some others walk—--
+[friend, weak, slowtimid, late]",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,41.463414634146346,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae4,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Choice of words. 
+Read the following description and select the appropriate descriptive word from
+the brackets.
+A. Making things by hand—--
+[handiwork, homework, machine work, classwork]
+B. A designer or one who makes plans—--
+[fitter, draftsman, choristers, carpenter]
+C.A group of singers singing hymns —--
+[choir, artist, singer, vocalist]
+D.A person who is not able to see —--
+[deaf, dumb, blind, handicap]
+E.She is always here on time —---
+[flexible, lazy, punctual, shy]",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,41.463414634146346,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae5,english,8,1.0,PROSE: A Day in the Ashram,English,Easy,fill_in_the_blank,1.0,"Choose thecountable nouns from each group: 
+A.[people, help, happy, milk]
+B.[truth, friends, air, stars]
+C.[coffee, rice, table, oil]
+D.[sound, advice, car, knowledge]",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbadf,8,False,36.58536585365854,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae6,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,2.0,Mention the activities the boys practice in the afternoon classes?,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,39.50617283950617,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae7,english,8,1.0,PROSE: A Day in the Ashram,English,Easy,fill_in_the_blank,2.0,Name the writer of this lesson and founder of the Shantiniketan School?,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,38.23529411764706,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae8,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,2.0,How do the boys spend their evening in Shantiniketan?,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,32.91139240506329,english_8.pdf,Ashram
+698c22ecec065fd7420d7ae9,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,2.0,List out the handiwork practised by Shantiniketanboys.,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,30.136986301369863,english_8.pdf,Ashram
+698c22ecec065fd7420d7aea,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,2.0,How do boys spend their time at night?,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,31.88405797101449,english_8.pdf,Ashram
+698c22ecec065fd7420d7aeb,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,2.0,” Shantiniketanprepares the boys for life”. --Justify the statement.,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,36.58536585365854,english_8.pdf,Ashram
+698c22ecec065fd7420d7aec,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,2.0,What is the daily routine of the Ashram students?,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,36.8421052631579,english_8.pdf,Ashram
+698c22ecec065fd7420d7aed,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,1.0,Explain the innovative way of teaching in Shantiniketan School?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbadf,8,False,31.999999999999996,english_8.pdf,Ashram
+698c22ecec065fd7420d7aee,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,1.0,Write a paragraph describing your idea of a good school.,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbadf,8,False,35.0,english_8.pdf,Ashram
+698c22ecec065fd7420d7aef,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,1.0,"Given below is a profile of Rabindranath Tagore. Write a paragraph about him,
+based on the clues given below. 
+Name: Rabindranath Tagore
+Born:  7 th May, 1861, Bengal
+Occupation: Poet, Short story writer, philosopher, teacher and cartoonist.
+Parents: DebendranathTagore, Saradadevi
+Founder: Vishwa Bharathi University
+Notable works: Gitanjali, Gora, Rabindra Sangeet.
+Awards: Noble prize for literature, 1913
+Death: 1941",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbadf,8,False,41.463414634146346,english_8.pdf,Ashram
+698c22ecec065fd7420d7af0,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Read the words given belowand identify the words having vowel i:/ l sounds
+and write them in two different columns. 
+[ Sea, teach,kit, dig, need, pin, clean, beat, fig, peel, kid, meet,win,meal,tin,speed.]
+i:
+I",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbadf,8,False,39.02439024390244,english_8.pdf,Ashram
+698c22ecec065fd7420d7af1,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,1.0,"Read the passage and list out countable and uncountable nouns in two
+different columns: 
+“The students gathered for the class, eager to begin their science lesson. They used
+paper and pencils to take notes and worked with samples of soil and water. After the
+lesson, they ate lunch and drank juice, enjoying the fresh air and sunshine of the spring
+day.”
+COUNTABLE
+UNCOUNTABLE",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbadf,8,False,39.02439024390244,english_8.pdf,Ashram
+698c22ecec065fd7420d7af2,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,1.0,"Read the warnings on each of the picture below. Match them with the meaning
+of the warning.",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbadf,8,False,32.87671232876712,english_8.pdf,Ashram
+698c22ecec065fd7420d7af3,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,4.0,List out the differences between Shantiniketan School and other schools?,[],,LBA,2025-26,Answer in Four or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,36.58536585365854,english_8.pdf,Ashram
+698c22ecec065fd7420d7af4,english,8,1.0,PROSE: A Day in the Ashram,English,Difficult,fill_in_the_blank,4.0,Describe your school in few lines.,[],,LBA,2025-26,Answer in Four or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,41.17647058823529,english_8.pdf,Ashram
+698c22ecec065fd7420d7af5,english,8,1.0,PROSE: A Day in the Ashram,English,Average,fill_in_the_blank,4.0,Read the passage carefully and answer the questions given below:,[],,LBA,2025-26,Answer in Four or More Sentences,67449bf6065a2c5cd2dcbadf,8,False,34.375,english_8.pdf,Ashram

@@ -1,0 +1,479 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c220aec065fd7420d76f8,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The National Bravery Awards were started in the year ________
+a) 1957
+b) 1965",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d76f9,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The first bravery award was given to ________
+a) Harish Chandra
+b) Rahul",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d76fa,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The awards are announced every year on ________
+a) November 14th
+b) January 26th",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d76fb,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The bravery awards are presented by the ________
+a) Prime Minister
+b) President",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d76fc,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The brave children participate in the Republic Day parade riding on ________
+a) Elephants
+b) Horses",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d76fd,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Harish Chandra saved many lives by cutting a burning ________
+a) Shamiana
+b) Curtain",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d76fe,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Gagan and Bhoomika saved a baby from two charging ________
+a) Bulls
+b) Cars",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d76ff,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Rahul, a balloon seller, helped the police by giving information about the ________
+a) Blasts
+b) Flood",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7700,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Priyanshu Joshi fought off a ________ to save his sister. 
+a) Leopard
+b) Tiger",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7701,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Kumari Maibam Prity Devi disposed of a ________ with her bare hands. 
+a) Live grenade
+b) Bomb",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7702,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The bravery awards encourage children to show ________ in real life. 
+a) Courage
+b) Discipline",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7703,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Vishal Suryaji Patil saved a ________ and her child from drowning. 
+a) Woman
+b) Man",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7704,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Gurjeevan Singh helped stop a ________ by attacking the thieves. 
+a) Robbery
+b) Kidnapping",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7705,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Gaurav Singh Saini saved people during a stampede at ________
+a) Naina Devi Temple
+b) Kedarnath Temple",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7706,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The bravery awardees also receive financial assistance for ________
+a) Higher education
+b) Business",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7707,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The National Bravery Awards are given by the ________ Council for Child Welfare. 
+(a) Indian
+(b) International",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7708,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The awards encourage children to use their ________ in tough situations. 
+(a) Presence of mind
+(b) Anger",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7709,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Some children have even ________ their lives while doing brave acts. 
+(a) Saved
+(b) Sacrificed",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d770a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Harish Chandra was a ________ when he performed his brave act. 
+(a) Scout
+(b) Soldier",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d770b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The shamiana caught fire due to a ________
+(a) Short-circuit
+(b) Candle",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d770c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Brave children who win the award receive a medal, certificate, and ________
+(a) Bicycle
+(b) Cash prize",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d770d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The bravery awards aim to honour ________ courage in children. 
+(a) Ordinary
+(b) Extraordinary",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d770e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Maibam Prity Devi used her ________ to throw away a live grenade. 
+(a) Stick
+(b) Bare hands",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d770f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Prity Devi's mother owned a ________ in Imphal. 
+(a) Shop
+(b) School",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7710,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Prity Devi dreams of joining the ________
+a) Army
+(b) Police force",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7711,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The National Bravery Awards began in the year ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7712,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The awards are presented by the ________ of India.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7713,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The first recipient of the Bravery Award was ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7714,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Harish Chandra saved lives by cutting a burning ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7715,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The fire incident occurred at ________ ground near the Red Fort.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7716,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The Bravery Awards are announced every year on ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7717,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The awardees participate in the Republic Day parade on ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7718,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"During the parade, the brave children ride on ________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7719,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Each awardee receives a medal, certificate, and ________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d771a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The bravery awards honour children below the age of ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d771b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Gagan and Bhoomika saved a child from two charging ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d771c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Rahul, a balloon seller, helped the police by giving information about
+________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d771d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Silver Kharbani saved her cousin from a ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d771e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Vishal Suryaji Patil saved a woman and child from ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d771f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Gaurav Singh Saini helped save people during a ________ at a temple.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7720,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Kumari Maibam Prity Devi belongs to the state of ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7721,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Prity Devi threw away a ________ with her bare hands.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7722,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Prity Devi aims to join the ________ to fight terror.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7723,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Priyanshu Joshi fought a ________ to protect his sister.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7724,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Gurjeevan Singh attacked robbers using ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7725,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Moonis Khan saved an old man from a ________ accident.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7726,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The awards encourage children to show ________ in difficult situations.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7727,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Rahul was ________ years old when he helped the police. 44.Gaurav
+Singh Saini is from the state of ________",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7728,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The twins Gagan and Bhoomika are from the city of ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7729,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The Indian Council for Child Welfare gives Bravery ________ every year.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d772a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Harish Chandra was a fourteen-year-old ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d772b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The brave children participate in the Republic Day ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d772c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Gagan and Bhoomika were sitting in their father’s ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d772d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Rahul was a balloon ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d772e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,A ________ broke out in the shamiana due to a short-circuit.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d772f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Prity Devi used her bare hands to dispose of a live ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7730,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Brave children are honoured for their ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7731,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The award ceremony is held on the eve of ________ Day.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7732,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The ________ took place at Ramlila Ground in Red Fort.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7733,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Gaurav Singh Saini saved people during a ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7734,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Children ride on decorated ________ during the parade.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7735,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Many children have saved lives and prevented ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7736,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The awardees are honoured for their acts of ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7737,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Rah.ul witnessed the ________ in New Delhi.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7738,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Prity Devi dreams of joining the ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7739,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Gurjeevan Singh attacked the thieves with ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d773a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The bravery awards aim to encourage a sense of ________ in children.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d773b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Some children receive financial ________ for higher education.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d773c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The ________ Prime Minister of India was Jawaharlal Nehru.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d773d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Harish Chandra was a ________-year-old boy.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d773e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The twins performed a ________ act by saving a baby.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d773f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The children showed ________ courage in difficult situations.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7740,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The grenade thrown at the shop was still ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7741,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Rahul gave ________ information to the police.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7742,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Priyanshu Joshi showed ________ courage by fighting a leopard.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7743,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The Republic Day Parade is a ________ event.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7744,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"The award ceremony includes a medal, certificate, and ________ reward.",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7745,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,These children are truly ________ hearts of India. 0,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,True,66.66666666666667,english_5.pdf,• Courage
+698c220aec065fd7420d7746,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The twins were only ________ years old when they acted bravely.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7747,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Moonis Khan was just ________ when he saved an old man.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7748,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,These children set a ________ example for others.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7749,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The award was started due to a ________ incident at the Red Fort.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d774a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Some of the children performed acts of bravery in very ________ situations.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d774b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,A ________ scout named Harish Chandra cut the burning shamiana.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d774c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Priyanshu Joshi protected his sister from a ________ animal.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d774d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,Their acts show how ________ minds can save lives.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d774e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,These children are not only bold but also very ________,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d774f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,The bravery awards are a form of ________ recognition.,[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7750,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Harish Chandra
+(b) Gagan Murthy
+(c) Rahul
+(d) Jawaharlal Nehru",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7751,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Shamiana
+(b) Bomb
+(c) Leopard
+(d) Elephant",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7752,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Certificate
+(b) Medal
+(c) Bravery
+(d) Cash",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7753,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Meghalaya
+(b) Manipur
+(c) Madhya Pradesh
+(d) Delhi",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7754,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Vishal Patil
+(b) Gaurav Saini
+(c) Moonis Khan
+(d) Jawaharlal Nehru",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7755,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Fire
+(b) Drowning
+(c) Stampede
+(d) Sketch",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7756,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"a) Republic Day
+(b) Children’s Day
+(c) Independence Day
+(d) January 26th",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7757,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Bulls
+(b) Robbers
+(c) Police
+(d) Bombers",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7758,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Gaurav Singh
+(b) Prity Devi
+(c) Rahul
+(d) Jawaharlal Nehru",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7759,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Twelve
+(b) Thirteen
+(c) Fourteen
+(d) Thirty",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d775a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Courage
+(b) Presence of mind
+(c) Parade
+(d) Sacrifice",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d775b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Leopard
+(b) Bulls
+(c) Bricks
+(d) Grenade",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d775c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"Gagan Murthy
+(b) Bhoomika Murthy
+(c) Gurjeevan Singh
+(d) Jawaharlal Nehru",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d775d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"Madivala
+(b) Ramlila Ground
+(c) Vegetable Market
+(d) Parliament House",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d775e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Leopard
+(b) Robbers
+(c) Police Force
+(d) Bomb Planters",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d775f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Bravery Awards
+(b) Certificate of Participation
+(c) Cash Prize
+(d) Medal",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7760,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Imphal
+(b) Bengaluru
+(c) Madivala
+(d) Rajasthan
+103(a) Maharashtra
+(b) Manipur
+(c) Madhya Pradesh
+(d) Maldives",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,True,100.0,english_5.pdf,• Courage
+698c220aec065fd7420d7761,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Courage
+(b) Intelligence
+(c) Presence of Mind
+(d) Carelessness",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7762,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Twins
+(b) Scout
+(c) Balloon Seller
+(d) Shopkeeper",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7763,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) January 26th
+(b) November 14th
+(c) August 15th
+(d) Republic Day",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7764,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,odd_one_out,1.0,"(a) Elephants
+(b) Parachutes
+(c) Bricks
+(d) Knife",[],,LBA,2025-26,Find the Odd One Out,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7765,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"In which year did the National Bravery Awards start? 
+a) 1955
+b) 1957
+c) 1960
+d) 1965",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7766,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Who was the first recipient of the National Bravery Award? 
+a) Rahul
+b) Gaurav
+c) Harish Chandra
+d) Vishal",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7767,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Who was the Prime Minister of India when the National Bravery Awards were
+started? 
+a) Indira Gandhi
+b) Jawaharlal Nehru
+c) Lal Bahadur Shastri
+d) Atal Bihari Vajpayee",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7768,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Where did the fire incident take place that inspired the National Bravery Awards?
+
+a) India Gate
+b) Ramlila Ground
+c) Red Fort
+d) Qutub Minar",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7769,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"On which date are the National Bravery Awards announced? 
+a) 15th August
+b) 26th January
+c) 14th November
+d) 1st May",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d776a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Who presents the National Bravery Awards to the recipients? 
+a) President of India
+b) Prime Minister
+c) Chief Justice
+d) Governor",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d776b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"What animal do the awardees ride during the Republic Day Parade? 
+a) Horses
+b) Camels
+c) Decorated Elephants
+d) Dogs",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d776c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"What is the age limit for children to receive the National Bravery Award? 
+a) 18
+b) 12
+c) 16
+d) 14",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d776d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Where does the Republic Day Parade take place? 
+a) Mumbai
+b) Delhi
+c) Kolkata
+d) Bengaluru",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d776e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Which of the following children saved an 18-month-old child from two bulls? 
+a) Rahul
+b) Gagan and Bhoomika
+c) Prity Devi
+d) Gaurav Singh Saini",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d776f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"What was Rahul’s occupation when he helped the police? 
+a) Shopkeeper
+b) Balloon Seller
+c) Farmer
+d) Student",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7770,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Where did Rahul witness the bomb blasts? 
+a) Bengaluru
+b) Mumbai
+c) New Delhi
+d) Chennai",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7771,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Which of the following children saved a woman and child from drowning? 
+a) Moonis Khan
+b) Vishal Suryaji Patil
+c) Priyanshu Joshi
+d) Gaurav Singh Saini",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7772,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Who saved 50–60 people during a stampede at the Naina Devi Temple? 
+a) Vishal Patil
+b) Gaurav Singh Saini
+c) Gagan Murthy
+d) Gurjeevan Singh",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7773,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Kumari Maibam Prity Devi disposed of a live ________
+a) Bomb
+b) Grenade
+c) Mine
+d) Weapon",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7774,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Where did Prity Devi’s act of bravery take place? 
+a) Meghalaya
+b) Manipur
+c) Punjab
+d) Haryana",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7775,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"What did Priyanshu Joshi fight off to save his sister? 
+a) Leopard
+b) Bear
+c) Tiger
+d) Wild Dog",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7776,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Which of the following children used bricks to fight off bank robbers? 
+a) Gurjeevan Singh
+b) Rahul
+c) Gaurav Singh Saini
+d) Vishal Patil",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7777,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Who saved an old man from a railway accident? 
+a) Gaurav
+b) Gurjeevan
+c) Moonis Khan
+d) Priyanshu Joshi",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7778,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Which state does Silver Kharbani belong to? 
+a) Punjab
+b) Haryana
+c) Meghalaya
+d) Maharashtra
+129 .What did Harish Chandra use to cut the burning shamiana? 
+a) Scissors
+b) Knife
+c) Axe
+d) Sword",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7779,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"How old was Harish Chandra when he became the first recipient of the Bravery
+Award? 
+a) 12
+b) 13
+c) 14
+d) 15",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d777a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"What was the primary reason for Prity Devi’s bravery?
+a) Fighting criminals
+b) Disposing a live grenade
+c) Saving a child
+d) Helping a wounded person",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d777b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Who presented the first National Bravery Award?
+a) Jawaharlal Nehru
+b) Indira Gandhi
+c) Rajendra Prasad
+d) Atal Bihari Vajpayee",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d777c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Who was responsible for saving lives during a fire at the Red Fort in 1957?
+a) Gagan Murthy
+b) Vishal Suryaji Patil
+c) Harish Chandra
+d) Gaurav Singh Saini",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d777d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Who among the following children is from Maharashtra?
+a) Vishal Suryaji Patil
+b) Rahul
+c) Priyanshu Joshi
+d) Gaurav Singh Saini",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d777e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"What was Gaurav Singh Saini’s act of bravery?
+a) Saved a child from bulls
+b) Helped during a stampede
+c) Disposed of a grenade
+d) Saved a woman from drowning",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d777f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"In which year did Gagan and Bhoomika save a child from bulls?
+a) 2005
+b) 2008
+c) 2010
+d) 2007",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,100.0,english_5.pdf,• Courage
+698c220aec065fd7420d7780,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Which of the following children was involved in an act of bravery at the Naina
+Devi Temple?
+a) Gaurav Singh Saini
+b) Priyanshu Joshi
+c) Gurjeevan Singh
+d) Vishal Suryaji Patil",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7781,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Average,fill_in_the_blank,1.0,"Who used their presence of mind to help the police by providing information
+about the bombers?
+a) Rahul
+b) Gaurav Singh Saini
+c) Vishal Suryaji Patil
+d) Priyanshu Joshi",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7782,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Harish Chandra was awarded the first National Bravery Award in 1957.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7783,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,The National Bravery Awards are announced every year on November 14th.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7784,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Harish Chandra saved people from a fire at the Red Fort.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7785,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Awardees participate in the Republic Day Parade on January 25th.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7786,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,The National Bravery Awards are presented by the President of India.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7787,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Gagan and Bhoomika Murthy saved a child from two bulls in 2008.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7788,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,The National Bravery Awards began in 1960.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7789,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Rahul, a balloon seller, helped the police catch criminals after a bomb explosion
+in New Delhi.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d778a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Vishal Suryaji Patil saved a woman and a child from drowning in a river.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d778b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Moonis Khan saved an elderly man from a road accident.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d778c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Kumari Maibam Prity Devi disposed of a live grenade at her mother’s shop in
+Imphal.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d778d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,The Republic Day Parade in New Delhi happens on the morning of January 26th.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d778e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Priyanshu Joshi fought off a bear to protect his sister.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d778f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Gurjeevan Singh helped prevent a bank robbery by attacking the thieves with
+bricks..",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7790,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Silver Kharbani saved her cousin from a fire.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7791,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,The National Bravery Awards are presented at a ceremony in New Delhi.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7792,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Gaurav Singh Saini saved 50-60 people during a stampede at the Naina Devi
+Temple.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7793,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Children under the age of 16 are eligible for the National Bravery Award.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7794,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The National Bravery Awards were first announced on November 14, 1958",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7795,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Rahul was 12 years old when he helped the police by providing information on
+the bombers.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d7796,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,The awards are announced on Children's Day.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7797,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Awardees take part in the Republic Day Parade, riding atop decorated elephants.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7798,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Priyanshu Joshi protected his sister from a tiger.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d7799,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"The National Bravery Awards encourage children to show courage in real-life
+situations.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d779a,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What is the purpose of the National Bravery Awards? .,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d779b,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Where did Harish Chandra save lives?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d779c,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,When are the Bravery Awards announced?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d779d,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Whom did Gaurav Singh Saini help during a stampede?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d779e,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What does each awardee receive?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d779f,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Who saved her cousin from a fire?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a0,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Whose shop was the grenade hurled at?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a1,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What inspired the initiation of the National Bravery Awards?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a2,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Where did Harish Chandra perform his act of bravery?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a3,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,When were the National Bravery Awards first announced?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a4,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Whose bravery is the reason behind the initiation of the National Bravery Awards?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a5,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What do the National Bravery Award winners receive?.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a6,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Where do the awardees participate in the Republic Day celebrations?.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a7,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,When are the National Bravery Awards announced every year?.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a8,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Whom did Gagan and Bhoomika Murthy save in 2008?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77a9,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What did Rahul do to help the police after the bomb blasts in New Delhi?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77aa,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Where did Silver Kharbani save her cousin from a fire?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ab,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,"Who was saved during the stampede at the Naina Devi Temple in Himachal
+Pradesh?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ac,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What did Kumari Maibam Prity Devi dispose of to save lives?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ad,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Who did Priyanshu Joshi protect from a leopard attack?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ae,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What did Gurjeevan Singh use to fight off bank robbers?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77af,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Where did Moonis Khan save an old man from a railway accident?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b0,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Whom did Priyanshu Joshi save from the leopard attack?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b1,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,What act of bravery was performed by Gaurav Singh Saini in 2009?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b2,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Easy,fill_in_the_blank,1.0,Whose act of bravery saved a young cousin from a fire in Meghalaya?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b3,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"How did the National Bravery Awards start, and who inspired their initiation?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b4,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"What is the significance of November 14th in relation to the National Bravery
+Awards?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b5,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,How are the National Bravery Awardees honoured after receiving their medals?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b6,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,What was the role of Gagan and Bhoomika Murthy in saving the child in 2008?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b7,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"How did Rahul, the balloon seller, assist in the New Delhi bomb blasts
+investigation?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b8,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Describe the heroic actions of Silver Kharbani from Meghalaya.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77b9,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"What was the situation during the stampede at the Naina Devi Temple, and how
+did Gaurav Singh Saini act?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ba,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,How did Kumari Maibam Prity Devi save lives in Imphal?.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77bb,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,How did Priyanshu Joshi fight off the leopard to protect his sister?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77bc,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,What is the main objective of the National Bravery Awards?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77bd,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,How did Harish Chandra save the lives of many people in 1957?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77be,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,What do the awardees of the National Bravery Awards receive?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77bf,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"What is the significance of November 14th in the context of the National Bravery
+Awards?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c0,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Explain the heroic act of Gagan and Bhoomika Murthy in 2008.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,True,50.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c1,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,How did Rahul contribute to the investigation after the bomb blasts in New Delhi?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c2,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Describe the bravery of Silver Kharbani of Meghalaya.,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c3,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"What was the situation during the stampede at Naina Devi Temple, and how did
+Gaurav Singh Saini help?",[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c4,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,What was Kumari Maibam Prity Devi’s courageous act in Imphal?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c5,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,How did Priyanshu Joshi protect his sister from the leopard?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c6,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,What is the main objective of the National Bravery Awards?,[],,LBA,2025-26,Short Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c7,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Why Should Brave Children Be Honoured?,[],,LBA,2025-26,Essay Writing,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c8,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"My Favourite Braveheart from the National Bravery Awards"".
+IX Complete the Story",[],,LBA,2025-26,Essay Writing,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77c9,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"“It was a busy morning at the vegetable market when suddenly two bulls started running
+toward a small child…”",[],,LBA,2025-26,Essay Writing,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ca,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"“Rahul was selling balloons on the street when he noticed two suspicious men placing
+something near the pavement…”",[],,LBA,2025-26,Essay Writing,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77cb,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Harish Chandra – The First Braveheart,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77cc,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Importance of Presence of Mind in Emergencies,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77cd,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Children are capable of remarkable bravery.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77ce,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Bravery Awards are more than just medals.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77cf,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Children are capable of remarkable bravery.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77d0,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,"Sometimes, the bravest acts come from the smallest people.",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage
+698c220aec065fd7420d77d1,english,5,15.0,PROSE: Children of Courage Bravery Awards,English,Difficult,fill_in_the_blank,1.0,Bravery Awards are more than just medals.,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ac4d,5,False,0.0,english_5.pdf,• Courage

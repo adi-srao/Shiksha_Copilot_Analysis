@@ -1,0 +1,13 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c22dcec065fd7420d79cf,english,6,15.0,POEM: MY PEOPLE,English,Easy,fill_in_the_blank,2.0,What is a sonnet?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196ad00,6,True,64.0,english_6.pdf,POEM
+698c22dcec065fd7420d79d0,english,6,15.0,POEM: MY PEOPLE,English,Average,fill_in_the_blank,2.0,Who showed never - failing love?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196ad00,6,False,43.75,english_6.pdf,POEM
+698c22dcec065fd7420d79d1,english,6,15.0,POEM: MY PEOPLE,English,Average,fill_in_the_blank,2.0,What does the poet try to be?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196ad00,6,True,58.62068965517242,english_6.pdf,POEM
+698c22dcec065fd7420d79d2,english,6,15.0,POEM: MY PEOPLE,English,Easy,fill_in_the_blank,2.0,Who is the poet of the poem ‘A Sonnet for my Incomparable Mother’?,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196ad00,6,True,70.70707070707071,english_6.pdf,POEM
+698c22dcec065fd7420d79d3,english,6,15.0,POEM: MY PEOPLE,English,Difficult,fill_in_the_blank,2.0,Mother is incomparable. Give two reasons.,[],,LBA,2025-26,Answer in Two or More Sentences,67ca912d9f0501ae9196ad00,6,True,56.09756097560976,english_6.pdf,POEM
+698c22dcec065fd7420d79d4,english,6,15.0,POEM: MY PEOPLE,English,Average,fill_in_the_blank,1.0,"I think of all________
+________and tears.
+Your heart, ________
+________the years.",[],,LBA,2025-26,Fill in the Blanks,67ca912d9f0501ae9196ad00,6,False,41.9753086419753,english_6.pdf,POEM
+698c22dcec065fd7420d79d5,english,6,15.0,POEM: MY PEOPLE,English,Average,fill_in_the_blank,1.0,IV. Project Work:,[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ad00,6,True,58.82352941176471,english_6.pdf,POEM
+698c22dcec065fd7420d79d6,english,6,15.0,POEM: MY PEOPLE,English,Average,fill_in_the_blank,1.0,"Write a few words about the qualities of your mother that you would like to imbibe.
+-----@@@@@-----",[],,LBA,2025-26,One Sentence Answers,67ca912d9f0501ae9196ad00,6,False,42.42424242424242,english_6.pdf,POEM

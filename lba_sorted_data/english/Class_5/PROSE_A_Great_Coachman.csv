@@ -1,0 +1,414 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c2209ec065fd7420d75bb,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,The little boy in the story is ________ (Narendra / Ramakrishna / Arjuna),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75bc,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Naren wanted to become a ________ when he saw the coachman. (teacher /
+coachman / monk)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75bd,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Narendra’s mother advised him to be a coachman like ________ (Krishna /
+Vishwanath / Vivekananda)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,80.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75be,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Narendra was born on ________ (1863 / 1893 / 1883),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75bf,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"His parents believed he was a gift from Lord ________ (Shiva / Krishna /
+Veereshwara)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,58.82352941176471,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c0,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Narendra read stories from the ________ and Mahabharatha. (Ramayana / Bible /
+Quran)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c1,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Narendra had a desire to become a ________ (soldier / king / scholar),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c2,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"His guru was ________ (Swami Dayananda / Ramakrishna Paramahamsa /
+Rabindranath Tagore)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,58.82352941176471,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c3,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He became a wandering ________ after his guru passed away. (merchant / monk /
+student)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c4,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Swami Vivekananda went to the USA in ________ (1893 / 1863 / 1901),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c5,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He gave a famous speech at the ________ of Religions. (Conference /
+Parliament / Meeting)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c6,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,He preached the message of ________ and love. (war / tolerance / fear),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c7,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Swami Vivekananda established the ________ Math. (Belur / Banaras / Benares),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c8,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"The motto of the Ramakrishna Mission is “Work is ________” (Power /
+Success / Worship)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75c9,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Swami Vivekananda lived for only ________ years. (39 / 49 / 59),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ca,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Little Naren could not ________ his mother’s words clearly. (hear / understand /
+repeat)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75cb,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Narendra was also known as ________ Dutta. (Narendranath / Ramakrishna /
+Arjun)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75cc,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,He was sent to ________ at the age of six. (temple / school / gurukula),[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d75cd,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Narendra wanted to ________ God.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,30.000000000000004,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ce,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,He met his guru Ramakrishna Paramahamsa and ________ God.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,55.55555555555556,english_5.pdf,• Coachman
+698c2209ec065fd7420d75cf,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"After becoming a monk, he visited different ________ of India. (schools /
+countries / places)              22.He spoke to people about the importance of
+________ (money / education / travel)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d0,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He fought against social evils like caste system and ________ (unity / kindness
+/ superstitions)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,44.44444444444444,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d1,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He gave a speech in the city of ________, USA. (New York / Washington /
+Chicago)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d2,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"In his speech, he said all ________ preached the same truth. (books / religions /
+gods)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d3,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Vivekananda returned to India and taught ________ and love. (anger / hatred /
+tolerance)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d4,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Ramakrishna Mission was founded in the city of ________ (Calcutta / Delhi /
+Mumbai)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d5,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"The Ramakrishna Mission promotes the idea that work is ________ (necessary
+/ worship / tiring)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,53.333333333333336,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d6,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda is known for spreading India’s message of ________ to the
+world. (wealth / fear / spirituality)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d7,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Even today, Swami Vivekananda’s ________ guide us. (photos / words /
+clothes)",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d8,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda was born ________ January 12, 1863. 
+a) on
+b) at
+c) in",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75d9,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He was considered a gift ________ Lord Veereshwara.
+a) from
+b) by
+c) to",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75da,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda went ________ the United States in 1893. 
+a) to
+b) in
+c) at",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75db,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He stayed ________ Ramakrishna Paramahamsa for a few years. 
+a) with
+b) by
+c) for",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75dc,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda spoke ________ the importance of education. 
+a) about
+b) for
+c) with",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75dd,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He fought against social evils like the caste system and superstitions ________
+India.
+a) at
+b) in
+c) for",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75de,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He travelled ________ different places in India to spread his message. 
+a) for
+b) to
+c) at",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75df,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda made a great speech ________ the Parliament of Religions in
+Chicago. 
+a) at
+b) in
+c) for",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e0,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He believed that education should develop a complete human being ________ mind and
+character. 
+a) at
+b) by
+c) in",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e1,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He returned ________ India after his trip to the United States. 
+a) to
+b) in
+c) from",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e2,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"His mother advised him to be like Lord Krishna, who guided Arjuna and showed
+the path ________ the innocent people. 
+a) from
+b) to
+c) at",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e3,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda was a strong advocate ________ the importance of self-reliance.
+
+a) of
+b) for
+c) with",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e4,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He lived ________ only 39 years but achieved great things. 
+a) for
+b) in
+c) at",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e5,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda’s words still guide people ________ the world today. 
+a) across
+b) for
+c) in",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e6,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He was deeply influenced ________ the teachings of his Guru, Ramakrishna
+Paramahamsa. 
+a) with
+b) by
+c) at",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e7,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda inspired people ________ developing their inner potential and
+strength. 
+a) of
+b) to
+c) for",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e8,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He became a monk and wandered ________ various places in India. 
+a) through
+b) to
+c) at",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75e9,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Swami Vivekananda's speech was a call for unity and brotherhood ________ all people.
+
+a) for
+b) among
+c) with",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ea,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"He returned to India to teach people ________ the importance of tolerance and love.
+
+a) of
+b) for
+c) about",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75eb,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,A little boy jumped out of the ________ and ran to his mother.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ec,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Naren said he wanted to be a ________ like the man driving the coach.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ed,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"His mother told him to be a coachman like ________, who guided Arjuna.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ee,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,The little boy Naren later became famous as ________,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,46.15384615384615,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ef,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Narendra was born on ________ (date and year).,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f0,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Narendra’s parents were ________ and Bhuvaneshwari Devi.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f1,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,His parents believed he was a gift from Lord ________,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,58.82352941176471,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f2,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"At first, the child was named ________ before becoming Narendranath.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f3,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He was sent to ________ at the age of six.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f4,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He enjoyed reading stories from ________ and Mahabharatha..,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.85714285714286,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f5,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Narendra had a desire to study more and become a ________,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f6,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"He wanted to see ________, which became his spiritual goal.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f7,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He met his guru ________ who helped him experience God.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,55.55555555555556,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f8,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"After his guru's influence, he became a wandering ________",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75f9,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Swami Vivekananda gave importance to ________ in his teachings.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75fa,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He fought against social evils like caste system and ________,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,44.44444444444444,english_5.pdf,• Coachman
+698c2209ec065fd7420d75fb,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He delivered a historic speech in the ________ of Religions at Chicago.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75fc,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,His speech emphasized that all ________ preached the same truth.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,58.82352941176471,english_5.pdf,• Coachman
+698c2209ec065fd7420d75fd,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"After returning to India, he preached love and ________",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75fe,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,The motto of the Ramakrishna Mission is “Work is ________”,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d75ff,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Swami Vivekananda visited many ________ in India as a wandering monk.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d7600,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He believed that education should develop a complete ________ being.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7601,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He inspired people to fight against ________ and blind beliefs.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d7602,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"Swami Vivekananda travelled to ________ in the year 1893. 
+.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7603,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"His famous speech in Chicago gained him worldwide ________
+.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,66.66666666666667,english_5.pdf,• Coachman
+698c2209ec065fd7420d7604,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"He urged people to develop a sense of ________ and love for each other.
+
+.77.After returning from the USA, he started teaching values like ________ and love.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,70.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7605,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"He established ________ Math in Calcutta. 
+.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.85714285714286,english_5.pdf,• Coachman
+698c2209ec065fd7420d7606,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,The Belur Math became the centre of the ________ Mission.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7607,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"Swami Vivekananda lived for only ________ years.
+
+.81.His achievements made the world understand the greatness of ________
+.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7608,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Swami Vivekananda’s teachings continue to ________ people even today.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7609,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,The Parliament of Religions was held in the city of ________,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d760a,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"As a young boy, Narendra was fascinated by the idea of driving a
+________",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d760b,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,His mother’s words planted the seed of ________ in little Naren’s mind.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d760c,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"Swami Vivekananda was born ________ January 12, 1863.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d760d,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He was considered a gift ________ Lord Veereshwara.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d760e,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He went ________ the United States in 1893.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d760f,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He made a famous speech ________ the Parliament of Religions.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7610,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,His message spread ________ the world.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,75.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7611,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He stayed ________ his Guru for several years.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7612,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He worked ________ the upliftment of the poor.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7613,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He fought ________ social evils like caste system and superstitions.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,44.44444444444444,english_5.pdf,• Coachman
+698c2209ec065fd7420d7614,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He established the Ramakrishna Mission ________ Calcutta.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7615,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"His mother advised him to be like Krishna who showed the path ________ the innocent
+people.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7616,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He believed ________ education as a tool for self-development.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7617,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He was influenced deeply ________ his Guru Ramakrishna Paramahamsa.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7618,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Swami Vivekananda traveled ________ various parts of India as a wandering monk.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d7619,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,His teachings continue to guide people ________ the globe.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,75.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d761a,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He returned ________ India after visiting the West.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d761b,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,His life was dedicated ________ the service of humanity.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,57.14285714285714,english_5.pdf,• Coachman
+698c2209ec065fd7420d761c,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Swami Vivekananda inspired many people to believe ________ themselves.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d761d,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,"The motto of Ramakrishna Mission is “Work is Worship,” which he lived ________",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,58.82352941176471,english_5.pdf,• Coachman
+698c2209ec065fd7420d761e,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,He spoke ________ religious tolerance and universal brotherhood.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d761f,english,5,13.0,PROSE: A Great Coachman,English,Average,fill_in_the_blank,1.0,Swami Vivekananda’s thoughts are still relevant ________ modern times.,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7620,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Naren wanted to become
+a. USA",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,30.000000000000004,english_5.pdf,• Coachman
+698c2209ec065fd7420d7621,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Krishna
+b. Narendranath Dutta",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7622,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Swami Vivekananda
+c. Guided Arjuna",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,30.000000000000004,english_5.pdf,• Coachman
+698c2209ec065fd7420d7623,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Narendra’s father
+d. A coachman",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7624,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Veereshwara
+e. Was his first name",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,52.63157894736843,english_5.pdf,• Coachman
+698c2209ec065fd7420d7625,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Ramakrishna Paramahamsa
+f. Guru of Vivekananda",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7626,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Swami Vivekananda visited
+g. Parliament of Religions",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7627,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Year of Chicago speech
+h. Vishwanath Dutta",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7628,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Vivekananda spoke at the
+i. Different parts of India",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7629,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Motto of Ramakrishna Mission j. “Work is Worship”,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d762a,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Swami Vivekananda’s birth date                         a. “Work is Worship”,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d762b,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"His first
+name
+b. Vishwanath Dutta and
+Bhuvaneshwari Devi",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,58.82352941176471,english_5.pdf,• Coachman
+698c2209ec065fd7420d762c,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Swami Vivekananda’s mother                               c. 12th January 1863,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,80.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d762d,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,The main motto of Ramakrishna Mission            d. Ramakrishna Paramahamsa,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d762e,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Swami Vivekananda's main teachings                  e. Tolerance and love,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d762f,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,He fought against social evils                                  g. India,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,44.44444444444444,english_5.pdf,• Coachman
+698c2209ec065fd7420d7630,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Swami Vivekananda’s life span                              h. 39 years,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7631,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Swami Vivekananda’s guru                                    i. Caste system and superstitions,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7632,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Swami Vivekananda’s speech in Chicago             j. 1893
+V Odd one out",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,42.85714285714286,english_5.pdf,• Coachman
+698c2209ec065fd7420d7633,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"a) Coachman
+b) Arjuna
+c) Krishna
+d) Ramayana
+108a) Vishwanath Dutta
+b) Ramakrishna Paramahamsa
+c) Bhuvaneshwari Devi
+d) Chicago",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7634,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"a) Education
+b) Caste system
+c) Superstitions
+d) Brotherhood",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7635,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"a) Belur Math
+b) Ramakrishna Mission
+c) Parliament of Religions
+d) Calcutta
+111a) 1863
+b) 1893",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7636,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Swami Vivekananda’s visit to the
+USA
+f. The child’s name before
+Narendranath
+c) 39 years
+d) 1993
+112a) Scholar
+b) Monk
+c) Coachman
+d) Guru
+113a) Tolerance
+b) Love
+c) Worship
+d) Superstition
+114a) Narendranath Dutta
+b) Veereshwara
+c) Swami Vivekananda
+d) Ramayana
+115a) God
+b) Guru
+c) Monk
+d) Coach
+116a) Mahabharatha
+b) Chicago
+c) Ramayana
+d) Belur Math
+117a) Wandering monk
+b) Parliament of Religions
+c) Innocent people
+d) Schoolboy
+118a) Education
+b) Love
+c) Hatred
+d) Tolerance
+119a) Veereshwara
+b) Krishna
+c) Arjuna
+d) Ramakrishna Paramahamsa
+120a) 12th January
+b) Belur Math
+c) Calcutta
+d) Caste System
+
+121a) January 12
+b) Youth Day
+c) Teacher's Day
+d) Swami Vivekananda's Birthday
+VI One-Word Answer Questions:",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7637,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What was the name of the little boy in the story,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7638,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Who did Naren want to become after seeing the coachman?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7639,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Who did Naren’s mother ask him to be like? 
+125What was the original name given to Narendra by his parents?",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,80.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d763a,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,In which year was Narendra born?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d763b,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What was Swami Vivekananda's full birth name?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,47.05882352941176,english_5.pdf,• Coachman
+698c2209ec065fd7420d763c,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,At what age did Naren start school?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,30.000000000000004,english_5.pdf,• Coachman
+698c2209ec065fd7420d763d,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Which two epics did Naren read as a child?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d763e,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did Naren want to see or experience?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d763f,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did he become after staying with his guru?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,52.63157894736843,english_5.pdf,• Coachman
+698c2209ec065fd7420d7640,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Which country did Vivekananda visit in 1893?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7641,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,In which city did he address the Parliament of Religions?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7642,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What value did he promote along with love?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7643,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Where did he establish the Belur Math?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7644,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What is the motto of the Ramakrishna Mission?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,70.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7645,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,How many years did Swami Vivekananda live?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7646,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Who were Narendra’s parents? (Either one),[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7647,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did he fight against? (Any one),[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7648,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did he promote among world religions?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7649,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did little Naren point at when he spoke to his mother?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d764a,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Who was guided by Krishna in the Mahabharatha?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d764b,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Who considered Naren a gift from Lord Veereshwara?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d764c,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What was the profession of the man driving the coach?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d764d,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did Naren want to become when he grew up (before guidance)?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d764e,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Who inspired Naren to choose a higher path?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d764f,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Which spiritual leader made Naren experience God?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7650,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What role did Naren take after leaving his guru?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,52.63157894736843,english_5.pdf,• Coachman
+698c2209ec065fd7420d7651,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What did Swami Vivekananda say all religions preach?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7652,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"What quality did he ask the world to develop, besides love?",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7653,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Where was the centre of the Ramakrishna Mission established?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7654,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What is Belur Math known as?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7655,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Which Indian city is associated with Belur Math?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7656,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,In which year did Vivekananda speak in Chicago?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7657,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"What is Swami Vivekananda a symbol of, according to the passage?",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7658,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,Which values did he oppose?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7659,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,"Which epic did Naren read apart from Ramayana? 
+158What kind of monk was Vivekananda?",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,47.05882352941176,english_5.pdf,• Coachman
+698c2209ec065fd7420d765a,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,How long did he live?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d765b,english,5,13.0,PROSE: A Great Coachman,English,Average,match_the_following,1.0,What message is still relevant from Vivekananda today?,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d765c,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,"Was little Naren excited to become a coachman? Did Naren’s
+mother want him to be an ordinary coachman?",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,80.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d765d,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did his mother compare the coachman to Lord Krishna?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d765e,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was Naren able to understand his mother’s words immediately?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,100.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d765f,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Naren later become known as Swami Vivekananda?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7660,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was Naren born in 1863?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,35.29411764705882,english_5.pdf,• Coachman
+698c2209ec065fd7420d7661,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Were his parents Vishwanath Dutta and Bhuvaneshwari Devi?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7662,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was Naren’s first name Ramakrishna?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7663,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Naren read Ramayana and Mahabharatha as a child?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7664,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he want to become a singer when he grew up?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7665,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Vivekananda want to see God?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,33.333333333333336,english_5.pdf,• Coachman
+698c2209ec065fd7420d7666,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he meet his guru in childhood?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7667,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was his guru Ramakrishna Paramahamsa?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7668,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Swami Vivekananda stay with Ramakrishna Paramahamsa for many years?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7669,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Vivekananda become a monk who stayed in one place?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d766a,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he travel across India as a wandering monk?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,52.63157894736843,english_5.pdf,• Coachman
+698c2209ec065fd7420d766b,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he speak about modern technology?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d766c,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he speak against caste system and superstitions?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d766d,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he go to the USA in 1893?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d766e,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he make a speech at the UN?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d766f,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was the Parliament of Religions held in Chicago?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7670,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he say that all religions teach different truths?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7671,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Swami Vivekananda preach hatred?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d7672,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he promote tolerance and love?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7673,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was Belur Math built in Delhi?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d7674,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Was Belur Math the center of Ramakrishna Mission?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7675,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Is the motto of Ramakrishna Mission “Work is Worship” ?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,75.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7676,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did Swami Vivekananda live for 60 years?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7677,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Did he make the world recognize India’s greatness?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7678,english,5,13.0,PROSE: A Great Coachman,English,Easy,fill_in_the_blank,1.0,Are his teachings still relevant today?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7679,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Why did little Naren want to become a coachman?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d767a,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What was Naren’s mother’s advice when he wanted to be a coachman?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,80.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d767b,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What was Naren’s full name?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,37.5,english_5.pdf,• Coachman
+698c2209ec065fd7420d767c,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Who were Narendra’s parents?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,47.05882352941176,english_5.pdf,• Coachman
+698c2209ec065fd7420d767d,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Why was Narendra considered a gift from God by his parents?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d767e,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What kind of stories did Naren enjoy as a child?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d767f,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What did Naren want to do as a young boy besides reading?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7680,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Who was Swami Vivekananda’s spiritual guru?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,33.333333333333336,english_5.pdf,• Coachman
+698c2209ec065fd7420d7681,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What did Swami Vivekananda do after his guru passed away?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7682,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What was Swami Vivekananda’s view on education?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7683,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What were some of the social evils that Vivekananda opposed?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7684,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Where and when did Swami Vivekananda deliver his famous speech?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7685,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What message did Vivekananda convey at the Parliament of Religions?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7686,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What did Swami Vivekananda do after returning to India?,[],,LBA,2025-26,Map Activity,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7687,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What is Belur Math and who established it?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7688,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What is the motto of the Ramakrishna Mission?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,70.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7689,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,How long did Swami Vivekananda live?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,37.5,english_5.pdf,• Coachman
+698c2209ec065fd7420d768a,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What impact did Swami Vivekananda have on the world?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d768b,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,How are Swami Vivekananda’s teachings relevant today?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d768c,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What did Swami Vivekananda believe about all religions?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d768d,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What change occurred in Naren as he grew up?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d768e,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Why did Naren’s parents change his name from Veereshwara to Narendranath?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d768f,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What inspired Naren to seek spiritual knowledge?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7690,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Describe Vivekananda’s life as a monk.,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d7691,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What was the goal of Swami Vivekananda’s speeches?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7692,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,How did Swami Vivekananda inspire youth?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7693,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What was the main idea behind Vivekananda’s message at Chicago?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7694,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What were the reactions to Vivekananda’s speech at the Parliament of Religions?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7695,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Why is the year 1893 important in Swami Vivekananda’s life?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,70.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7696,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What did Vivekananda say about work in relation to worship?.,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7697,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What legacy did Swami Vivekananda leave behind in India?,[],,LBA,2025-26,Map Activity,67449bf6065a2c5cd2dcbe14,5,False,35.29411764705882,english_5.pdf,• Coachman
+698c2209ec065fd7420d7698,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What is the importance of Belur Math?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,70.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d7699,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,How did Vivekananda fight against social evils?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,40.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d769a,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What qualities made Swami Vivekananda a great leader?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d769b,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,How did Vivekananda's teachings influence modern education?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d769c,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What message did Swami Vivekananda give to Indians about their heritage?,[],,LBA,2025-26,Map Activity,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d769d,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Why is Swami Vivekananda remembered even today?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d769e,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Mention one famous quote by Swami Vivekananda.,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d769f,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,What role did Ramakrishna Paramahamsa play in Vivekananda’s life?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe14,5,False,42.10526315789473,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a0,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Describe Swami Vivekananda’s contribution to Indian society. .,[],,LBA,2025-26,Map Activity,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a1,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,5.0,"Write a short paragraph on the teachings of Swami Vivekananda.
+.",[],,LBA,2025-26,Answer in Six or More Sentences,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a2,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,5.0,Write about the significance of Belur Math and its motto. .,[],,LBA,2025-26,Answer in Six or More Sentences,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a3,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,5.0,"Write a note on the relationship between Swami Vivekananda and his Guru Ramakrishna
+Paramahamsa. .",[],,LBA,2025-26,Answer in Six or More Sentences,67449bf6065a2c5cd2dcbe14,5,True,60.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a4,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,"Continue the story: ""Little Naren wanted to be a coachman________"" and end it with how he
+became Swami Vivekananda..",[],,LBA,2025-26,Story Development,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a5,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Short note on Ramakrishna Mission.,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman
+698c2209ec065fd7420d76a6,english,5,13.0,PROSE: A Great Coachman,English,Difficult,fill_in_the_blank,1.0,Short note on Swami Vivekananda’s speech in Chicago,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe14,5,True,50.0,english_5.pdf,• Coachman

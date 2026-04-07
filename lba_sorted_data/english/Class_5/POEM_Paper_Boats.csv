@@ -1,0 +1,192 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c2209ec065fd7420d76a7,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,I load my little boats with shiuli flowers from our ________,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,36.66666666666667,english_5.pdf,POEM:Th
+698c2209ec065fd7420d76a8,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"I hope that these blooms of the dawn will be carried safely to land in the
+________",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,37.2093023255814,english_5.pdf,POEM:Th
+698c2209ec065fd7420d76a9,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"I launch my paper boats and look up into the sky and see the little clouds setting
+their white ________ sails.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,41.21212121212121,english_5.pdf,POEM:Th
+698c2209ec065fd7420d76aa,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"I know not what playmate of mine in the sky sends them down the air to race with
+my ________!",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,36.36363636363637,english_5.pdf,POEM:Th
+698c2209ec065fd7420d76ab,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"When night comes I bury my face in my ________ and dream that my paper boats
+float on and on under the midnight stars.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,39.053254437869825,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ac,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"The fairies of sleep are sailing in them, and the ________ is their baskets full of
+dreams.",[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,39.56043956043956,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ad,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Paper boats
+a) Written on the boats",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,48.57142857142858,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ae,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Running stream
+b) The child’s name and village",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,44.44444444444444,english_5.pdf,POEM:Th
+698c220aec065fd7420d76af,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Shiuli flowers
+c) The child’s imaginative playmates",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,40.0,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b0,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,Clouds with white bulging sails d) The child’s dreams and hopes,[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,40.32258064516129,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b1,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Fairies of sleep
+e) The medium through which boats are floated",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,39.62264150943396,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b2,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Midnight stars
+f) The cargo carried by fairies",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,45.652173913043484,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b3,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Baskets full of dreams
+g) The time when the child dreams of boats sailing",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,40.0,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b4,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"The child’s name and village
+h) The boats launched by the child",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,41.666666666666664,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b5,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"Playmate in the sky
+i) The flowers placed in the boats",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,42.42424242424242,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b6,english,5,14.0,POEM: Paper Boats,English,Average,match_the_following,1.0,"The act of launching boats
+j) The child’s daily activity",[],,LBA,2025-26,Match the Following,67449bf6065a2c5cd2dcbe29,5,False,45.45454545454546,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b7,english,5,14.0,POEM: Paper Boats,English,Average,odd_one_out,1.0,"Which of the following is NOT mentioned in the poem? 
+a) Paper boats
+b) Running stream
+c) Mountains
+d) Shiuli flowers",[],,LBA,2025-26,Find the Odd One Out,67449bf6065a2c5cd2dcbe29,5,False,40.83769633507853,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b8,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"a) Clouds with white bulging sails
+b) Fairies of sleep
+c) Midnight stars
+d) Sunflowers",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,38.27160493827161,english_5.pdf,POEM:Th
+698c220aec065fd7420d76b9,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Which of these actions is NOT performed by the child in the poem? 
+a) Writing his name on the boats
+b) Loading boats with flowers
+c) Climbing a tree
+d) Dreaming of boats under stars",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.639593908629436,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ba,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Which of the following is NOT a theme explored in the poem? 
+a) Childhood imagination
+b) Connection with distant lands
+c) Nature's beauty
+d) Urban life challenges",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.307692307692314,english_5.pdf,POEM:Th
+698c220aec065fd7420d76bb,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Which of these is NOT a metaphor used in the poem? 
+a) Clouds as sails
+b) Boats carrying dreams
+c) Fairies sailing
+d) Rocks as obstacles",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,40.22346368715084,english_5.pdf,POEM:Th
+698c220aec065fd7420d76bc,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the child float daily?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.625,english_5.pdf,POEM:Th
+698c220aec065fd7420d76bd,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,Where does the child float the paper boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.666666666666664,english_5.pdf,POEM:Th
+698c220aec065fd7420d76be,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What flowers does the child place in the boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.42553191489362,english_5.pdf,POEM:Th
+698c220aec065fd7420d76bf,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the child write on the boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.25352112676056,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c0,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What colour are the letters written on the boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.816326530612244,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c1,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the child hope someone in a strange land will know?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.622950819672134,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c2,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the child see in the sky racing with the boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,45.614035087719294,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c3,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the child imagine the clouds have?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,38.63636363636363,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c4,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,Who does the child think sends the clouds to race with the boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.0,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c5,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What time of day does the child dream about the boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,38.888888888888886,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c6,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,Under what do the boats float in the child's dream?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,41.23711340206185,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c7,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,Who sails in the boats during the child's dream?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,41.666666666666664,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c8,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What do the fairies carry in their baskets?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,41.860465116279066,english_5.pdf,POEM:Th
+698c220aec065fd7420d76c9,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Who is the poet of ""Paper Boats""?",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,39.39393939393939,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ca,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What is the 'lading' of the boats in the poem?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,43.956043956043956,english_5.pdf,POEM:Th
+698c220aec065fd7420d76cb,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the poet float daily? 
+a) Paper boats
+b) Paper planes
+c) Wooden ships
+d) Leaves",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.90909090909091,english_5.pdf,POEM:Th
+698c220aec065fd7420d76cc,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Where does the poet float his paper boats? 
+a) River
+b) Pond
+c) Running stream
+d) Lake",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.352941176470594,english_5.pdf,POEM:Th
+698c220aec065fd7420d76cd,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the poet write on his paper boats? 
+a) A poem
+b) His name and village
+c) A secret message
+d) A drawing",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,38.92617449664429,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ce,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What flowers does the poet place in the boats? 
+a) Roses
+b) Lotus
+c) Shiuli
+d) Sunflowers",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,39.77272727272727,english_5.pdf,POEM:Th
+698c220aec065fd7420d76cf,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the poet hope someone in a strange land will know? 
+a) His favourite colour
+b) Who he is
+c) His age
+d) His favourite food",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,41.8848167539267,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d0,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the poet see in the sky racing with his boats? 
+a) Birds
+b) Airplanes
+c) Clouds
+d) Stars",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.67796610169492,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d1,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the poet imagine the clouds have? 
+a) Wings
+b) Sails
+c) Engines
+d) Flags",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,41.9753086419753,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d2,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Who does the poet think sends the clouds to race with his boats? 
+a) A friend
+b) A playmate in the sky
+c) The wind
+d) His brother",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.051282051282044,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d3,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What time of day does the poet dream about his boats? 
+a) Morning
+b) Afternoon
+c) Evening
+d) Night",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.391304347826086,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d4,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"Who sails in the paper boats in the poet’s dreams? 
+a) Birds
+b) Fairies of sleep
+c) Children
+d) Angels",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.83769633507853,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d5,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What do the fairies of sleep carry in their baskets? 
+a) Flowers
+b) Stars
+c) Dreams
+d) Candies",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,39.13043478260869,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d6,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What is the tone of the poem “Paper Boats”? 
+a) Sad and serious
+b) Angry and loud
+c) Gentle and wishful
+d) Excited and chaotic",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,38.048780487804876,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d7,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the phrase “blooms of the dawn” refer to? 
+a) Stars
+b) Shiuli flowers
+c) Clouds
+d) Boats",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.0,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d8,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What does the poet do when night comes? 
+a) Watches the stars
+b) Buries his face in his arms and dreams
+c) Writes more letters
+d) Continues to float boats",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.307692307692314,english_5.pdf,POEM:Th
+698c220aec065fd7420d76d9,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"What is the 'lading' of the boats in the poem? 
+a) Flowers
+b) Dreams
+c) Stars
+d) Letters",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,40.49079754601227,english_5.pdf,POEM:Th
+698c220aec065fd7420d76da,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet float paper boats every day?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.25352112676056,english_5.pdf,POEM:Th
+698c220aec065fd7420d76db,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet write his name on the paper boats?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,41.666666666666664,english_5.pdf,POEM:Th
+698c220aec065fd7420d76dc,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet place roses in the paper boats?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,44.15584415584416,english_5.pdf,POEM:Th
+698c220aec065fd7420d76dd,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet hope someone in a distant land will find his boats?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,41.53846153846153,english_5.pdf,POEM:Th
+698c220aec065fd7420d76de,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet imagine clouds as white bulging sails?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.307692307692314,english_5.pdf,POEM:Th
+698c220aec065fd7420d76df,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"Does the poet believe his playmate in the sky sends the clouds to race with his
+boats?",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.58064516129032,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e0,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet dream that his boats float under the midnight stars?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.1875,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e1,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Are fairies of sleep imagined to be sailing in the poet's boats?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,45.833333333333336,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e2,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet mention any real-life friends in the poem?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,44.64285714285714,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e3,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Is the poem written from the perspective of an adult?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,41.509433962264154,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e4,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet mention the boats being made of wood?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,43.29896907216495,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e5,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet express a desire to meet the person who finds his boat?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,43.47826086956522,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e6,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Is the poem set during the rainy season?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,44.99999999999999,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e7,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,Does the poet refer to the boats carrying messages?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,44.680851063829785,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e8,english,5,14.0,POEM: Paper Boats,English,Easy,fill_in_the_blank,1.0,"Is the poem titled ""Paper Boats""?",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.42424242424242,english_5.pdf,POEM:Th
+698c220aec065fd7420d76e9,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the poet hope when he writes his name on the paper boats?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,38.38383838383839,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ea,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,Why does the poet load his paper boats with shiuli flowers?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,39.175257731958766,english_5.pdf,POEM:Th
+698c220aec065fd7420d76eb,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What does the poet imagine when he sees the clouds in the sky?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.592592592592595,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ec,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What is the 'lading' of the boats in the poet's dream?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.592592592592595,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ed,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"How does the poet describe the fairies in his dream? 
+. 91.What does the poet hope when he writes his name on the paper boats?",[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,39.77900552486188,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ee,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,How does the poet's imagination transform the clouds in the sky?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,42.1875,english_5.pdf,POEM:Th
+698c220aec065fd7420d76ef,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,What is the significance of the 'lading' in the poet's dream?,[],,LBA,2025-26,Short Answers,67449bf6065a2c5cd2dcbe29,5,False,39.34426229508197,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f0,english,5,14.0,POEM: Paper Boats,English,Difficult,fill_in_the_blank,1.0,"•
+“I load my little boats with shiuli flowers from our garden.”
+•
+“Day by day I float my paper boats one by one down the running stream.”
+•
+“I hope that someone in some strange land will find them and know who I am.”
+•
+“When night comes I bury my face in my arms and dream that my paper boats float
+on and on under the midnight stars.”
+X Short Notes
+Write short notes on the following:",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.307692307692314,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f1,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,Shiuli Flowers in the Poem,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,42.307692307692314,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f2,english,5,14.0,POEM: Paper Boats,English,Difficult,fill_in_the_blank,1.0,"Imagery of the Clouds
+XI Answer the following questions",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,41.81818181818182,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f3,english,5,14.0,POEM: Paper Boats,English,Difficult,fill_in_the_blank,1.0,What does the poet hope when he writes his name on the paper boats?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,38.38383838383839,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f4,english,5,14.0,POEM: Paper Boats,English,Difficult,fill_in_the_blank,1.0,Why does the poet load his paper boats with shiuli flowers?,[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,39.175257731958766,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f5,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"The Joy of Making Paper Boats
+Describe the process of making paper boats and the joy it brings. Reflect on the memories associated
+with this activity and how it connects to childhood innocence.",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,43.269230769230774,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f6,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,"A Day in the Life of a Paper Boat
+Imagine you are a paper boat. Write about your journey down the stream, the places you visit, and the
+experiences you encounter.",[],,LBA,2025-26,One Sentence Answers,67449bf6065a2c5cd2dcbe29,5,False,38.46153846153846,english_5.pdf,POEM:Th
+698c220aec065fd7420d76f7,english,5,14.0,POEM: Paper Boats,English,Average,fill_in_the_blank,1.0,I .Fill in the Blanks,[],,LBA,2025-26,Fill in the Blanks,67449bf6065a2c5cd2dcbe29,5,False,42.85714285714286,english_5.pdf,POEM:Th

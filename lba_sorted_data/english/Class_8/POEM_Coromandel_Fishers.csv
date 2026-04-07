@@ -1,0 +1,27 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c22ecec065fd7420d7bbb,english,8,12.0,POEM: Coromandel Fishers,English,Average,fill_in_the_blank,1.0,Find the five hidden words connected to the poem in the word grid:,[],,LBA,2025-26,One Sentence Answers,67449bf5065a2c5cd2dcb6b5,8,True,51.515151515151516,english_8.pdf,Coromandel
+698c22ecec065fd7420d7bbc,english,8,12.0,POEM: Coromandel Fishers,English,Difficult,fill_in_the_blank,1.0,"Complete the dialogues between 2 fishermen. 
+[ 5Marks ]
+Fisher man 1:________
+Fisher man 2:________
+Fisher man 1:------------------------
+Fisher man 2:-----------------------
+---------------------------------
+S
+E
+A
+T
+R W
+U B
+O A
+T
+G
+N F
+I
+S
+H W
+D A
+W N S
+Y
+C L
+O U D E",[],,LBA,2025-26,Fill in the Blanks,67449bf5065a2c5cd2dcb6b5,8,False,34.73053892215569,english_8.pdf,Coromandel

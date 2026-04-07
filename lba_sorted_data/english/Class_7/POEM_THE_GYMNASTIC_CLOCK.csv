@@ -1,0 +1,21 @@
+question_id,subject,class,chapter_number,chapter_title,medium,difficulty,answer_type,marks,text,options,key_answer,exam_type,year,group_heading,chapter_id,standard,found_in_pdf,match_score,pdf_source,pdf_section
+698c22e4ec065fd7420d79ef,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Easy,mcq,1.0,The poet says that the little clock is ________ with me.,"[""coming"", ""friend"", ""playing"", ""father\nless, short, heavy, waste, disadvantage, after, worst, unhealthy,\nstart, late, weak, sad, big, early, strong, joy, best, tiny, light, stop""]",,LBA,2025-26,Multiple Choice Questions,67449bf5065a2c5cd2dcb904,7,False,44.64285714285714,english_7.pdf,Clock
+698c22e4ec065fd7420d79f0,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Easy,mcq,1.0,"In the poem, the clock does the exercise","[""once in a day"", ""in the morning"", ""at night"", ""all day""]",,LBA,2025-26,Multiple Choice Questions,67449bf5065a2c5cd2dcb904,7,True,55.00000000000001,english_7.pdf,Clock
+698c22e4ec065fd7420d79f1,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Easy,mcq,1.0,The clock can swing its arms,"[""round"", ""back"", ""front"", ""far""]",,LBA,2025-26,Multiple Choice Questions,67449bf5065a2c5cd2dcb904,7,False,46.42857142857143,english_7.pdf,Clock
+698c22e4ec065fd7420d79f2,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Easy,mcq,1.0,The clock looks at me and I look,"[""dark"", ""around"", ""back"", ""front""]",,LBA,2025-26,Multiple Choice Questions,67449bf5065a2c5cd2dcb904,7,True,50.0,english_7.pdf,Clock
+698c22e4ec065fd7420d79f3,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Easy,mcq,1.0,The clock says that it wouldn’t boast of it like,"[""mother"", ""the poet"", ""others"", ""people""]",,LBA,2025-26,Multiple Choice Questions,67449bf5065a2c5cd2dcb904,7,False,48.93617021276596,english_7.pdf,Clock
+698c22e4ec065fd7420d79f4,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,Who wrote the poem ‘The Gymnastic Clock’?,[],,LBA,2025-26,Short Answers,67449bf5065a2c5cd2dcb904,7,True,56.41025641025641,english_7.pdf,Clock
+698c22e4ec065fd7420d79f5,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,Name the two characters in the poem gymnastic clock.,[],,LBA,2025-26,Short Answers,67449bf5065a2c5cd2dcb904,7,True,53.84615384615385,english_7.pdf,Clock
+698c22e4ec065fd7420d79f6,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,What does the clock tell the speaker each morning?,[],,LBA,2025-26,Short Answers,67449bf5065a2c5cd2dcb904,7,True,50.54945054945055,english_7.pdf,Clock
+698c22e4ec065fd7420d79f7,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,What similarity do the speaker and the clock share?,[],,LBA,2025-26,Short Answers,67449bf5065a2c5cd2dcb904,7,False,49.01960784313726,english_7.pdf,Clock
+698c22e4ec065fd7420d79f8,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,Is it necessary to do exercise every day?,[],,LBA,2025-26,Short Answers,67449bf5065a2c5cd2dcb904,7,False,46.34146341463414,english_7.pdf,Clock
+698c22e4ec065fd7420d79f9,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Easy,fill_in_the_blank,2.0,Make a list of rhyming words from the poem.,[],,LBA,2025-26,Answer in Two or More Sentences,67449bf5065a2c5cd2dcb904,7,False,48.71794871794872,english_7.pdf,Clock
+698c22e4ec065fd7420d79fa,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Difficult,fill_in_the_blank,2.0,"Compare your daily routine with the clock, share your opinion.",[],,LBA,2025-26,Answer in Two or More Sentences,67449bf5065a2c5cd2dcb904,7,False,46.7741935483871,english_7.pdf,Clock
+698c22e4ec065fd7420d79fb,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,"” Oh! Don’t get tired and stop, that way!”     
+A) Who said this?
+B) To whom was this said?
+C) Why was it said?",[],,LBA,2025-26,Read and Answer,67449bf5065a2c5cd2dcb904,7,False,43.13725490196079,english_7.pdf,Clock
+698c22e4ec065fd7420d79fc,english,7,2.0,POEM: THE GYMNASTIC CLOCK,English,Average,fill_in_the_blank,1.0,"“Now, don't forget your exercises”   
+A) Who is the speaker in this line?
+B) Whom does it tell about exercises?
+C) Will you agree with the given line, if yes explain.",[],,LBA,2025-26,Read and Answer,67449bf5065a2c5cd2dcb904,7,False,43.80952380952381,english_7.pdf,Clock
