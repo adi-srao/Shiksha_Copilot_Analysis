@@ -1,10 +1,10 @@
 # Define variables
-$mongoExportPath = ".\bin\mongoexport.exe"
-$hostIp = "20.198.50.18:27017"
-$dbName = "proddb"
-$user = "shubha_k"
-$pass = "Shubha@1234"
-$uri = "mongodb://shubha_k:Shubha%401234@20.198.50.18:27017/proddb?authSource=proddb"
+$mongoExportPath = 
+$hostIp = 
+$dbName = 
+$user = 
+$pass = 
+$uri =
 
 
 $collections = @("lessonchats", 'auditlogs', 'baselinesurveys', 'chapters', 'chats', 'classes', 'lba_questions', 'lessonchats', 
