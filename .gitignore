@@ -1,6 +1,0 @@
-*.json
-venv
-mongodb-database-tools-windows-x86_64-100.14.1
-bin
-.ipynb_checkpoints
-*.txt
